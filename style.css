@@ -1,0 +1,134 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "poppins",sans-serif;
+  }
+  body {
+   background-color: #0a1f2e;
+}
+
+    
+
+
+
+ 
+  .section1{
+    margin-top: 12vh;
+  } 
+  
+
+
+
+
+
+
+.container{
+  margin-top: 30vh;
+}
+.con-h2{
+  font-size: 7vh;
+}
+.img-my{
+   height: 50vh; 
+} 
+
+
+
+
+
+
+
+.services{
+  margin-top: 30vh;
+}
+.ser-h1{
+font-size: 7vh;
+}
+ .service-box1{
+  height: 45vh;
+  background-color:#183149;
+}
+.service-box2{
+  height: 38vh;
+  margin-top: 18vh;
+  background-color: #214964;
+}
+.service-box3{
+
+  height: 30vh;
+  margin-top: 25vh;
+  background-color: #265b83;
+}
+  
+
+
+
+
+
+
+.project{
+  margin-top: 45vh;
+}
+.pro-h1 {
+ font-size: 7vh;
+ margin-bottom: 10vh;
+}
+.project-card img {
+  width: 100%;
+  border-radius: 3vh;
+}
+.sty{
+  font-family: cursive;
+}
+
+
+
+
+
+
+.contact{
+  margin-top: 10vh;
+  
+  
+}
+.h1-con{
+  font-size: 6vh;
+} 
+
+
+
+
+
+
+.btn-box:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 25px #00bfff;
+}
+
+
+
+@keyframes float {
+  0%   { transform: translateY(0); }
+  25%   { transform: translateY(0px,-0px);}
+  50%  { transform: translateY(-15px); }
+  
+} 
+
+.float-up-down {
+  animation: float 2s ease-in-out infinite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
